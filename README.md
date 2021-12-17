@@ -3,7 +3,7 @@
 ## Overview of Project
 
 **Purpose:**  
-V. Isualize, the CEO of a ride sharing company called Pyber, has tasked us with analyzing data and creating visualizations from January to early May for the 2019 year. She was impressed with our initial analysis and has given Omar and I another assignment. The purpose of this analysis is to use Python and Pandas to create a new summary DataFrame and multiple-line graph that shows the total weekly fares for each city type.
+V. Isualize, the CEO of a ride sharing company called PyBer, has tasked us with analyzing data and creating visualizations from January to early May for the 2019 year. She was impressed with our initial analysis and has given Omar and I another assignment. The purpose of this analysis is to use Python and Pandas to create a new summary dataframe and multiple-line graph that shows the total weekly fares for each city type.
 
 
 ## Resources:
@@ -28,7 +28,7 @@ On the other hand, when we look at urban city type, we can see that there is ove
 **Summary**  
 1. One business recommendation would be to increase the number of drivers in areas where there are higher demand. This may increase consumer satisfaction and public relations due to higher effiency of our drivers. The down side would be decreases in number of rides per driver, which the drivers may be less motivated to continue to work because the market for drivers would be saturated and difficult to give as many rides as a driver.  
 2. Another business recommendation, that is opposite of the first, is to decrease number of drivers in population dense areas. This would increase demand by lowering supplies, so there could be an increase in average fare per ride and would keep our drivers busy and working hard. But the downside of this would be that consumers would be less satisfied because it would be more difficult to catch a ride when we don't have as many drivers and the current drivers are already busy giving rides to someone else. Eventually, this strategy would fail because more people would want to be drivers due to the market's high demand for drivers.  
-3. A third recommendation would be to host or sponsor events where alcohol is involved. Hear me out. People would need a safe way to be transported to and from the event safely and avoiding any DUIs. So if the attendees were to take PyBer, this would increase total ride count, thus increasing revenue.  
+3. A third recommendation would be to host or sponsor events where alcohol is involved. Hear me out. People would need a safe way to travel to and from the event safely and avoiding any DUIs. So if the attendees were to take PyBer, this would increase total ride count, thus increasing revenue.  
 
 
 ### Codes Used  
